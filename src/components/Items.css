@@ -1,0 +1,32 @@
+.item{
+    width: 350px;
+    height: 542px;
+    border-radius: 10px;
+    border: 1px solid #ECEBEB;
+    position: relative;
+}
+.size2{
+    width: 292px;
+    height: 423px;
+    position: absolute;
+    top: 45px;
+    left: 37px;
+    
+}
+.size2 img:nth-child(1){
+    margin-bottom: 43px;
+}
+.size2 h3{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #151519;
+    margin-bottom: 20px;
+}
+.size2 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #151519;
+    margin-bottom: 20px;
+}

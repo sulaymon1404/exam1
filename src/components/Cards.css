@@ -1,0 +1,34 @@
+.card{
+    width: 350px;
+    height: 216px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    position: relative;
+    margin-bottom: 50px;
+
+}
+.size{
+    width: 290px;
+    height: 166px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.size img{
+    margin-bottom: 10px;
+}
+.size h3{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #151519;
+    margin-bottom: 10px;
+}
+.size p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #151519
+}
+
+
